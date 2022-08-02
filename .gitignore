@@ -1,0 +1,14 @@
+.qmake.stash
+image.jpeg
+ImageTwo.bmp
+ImageTwo.png
+Makefile
+Makefile.Debug
+Makefile.Release
+NewImage.png
+main.o
+moc_openfiles.cpp
+moc_openfiles.o
+moc_predefs.h
+openfiles.o
+OpeningFiles.pro.user
